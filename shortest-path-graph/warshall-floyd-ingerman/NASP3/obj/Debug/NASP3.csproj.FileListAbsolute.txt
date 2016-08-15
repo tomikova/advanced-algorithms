@@ -1,0 +1,18 @@
+C:\Users\Tomislav\Desktop\NASP3\NASP3GUI\bin\Debug\NASP3.exe
+C:\Users\Tomislav\Desktop\NASP3\NASP3GUI\bin\Debug\NASP3.pdb
+C:\Users\Tomislav\Desktop\NASP3\NASP3GUI\obj\Debug\NASP3.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\NASP3\NASP3GUI\obj\Debug\NASP3.Form1.resources
+C:\Users\Tomislav\Desktop\NASP3\NASP3GUI\obj\Debug\NASP3.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\NASP3\NASP3GUI\obj\Debug\NASP3.csproj.GenerateResource.Cache
+C:\Users\Tomislav\Desktop\NASP3\NASP3GUI\obj\Debug\NASP3.exe
+C:\Users\Tomislav\Desktop\NASP3\NASP3GUI\obj\Debug\NASP3.pdb
+C:\Users\Tomislav\Desktop\NASP3\NASP3\obj\Debug\NASP3.exe
+C:\Users\Tomislav\Desktop\NASP3\NASP3\obj\Debug\NASP3.pdb
+C:\Users\Tomislav\Desktop\Grafovi - Copy\NASP3\obj\Debug\NASP3.exe
+C:\Users\Tomislav\Desktop\Grafovi - Copy\NASP3\obj\Debug\NASP3.pdb
+C:\Users\Tomislav\Desktop\Grafovi - Copy\NASP3\bin\Debug\NASP3.exe
+C:\Users\Tomislav\Desktop\Grafovi - Copy\NASP3\bin\Debug\NASP3.pdb
+C:\Users\Tomislav\Desktop\Grafovi - Copy\NASP3\obj\Debug\NASP3.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\Grafovi - Copy\NASP3\obj\Debug\NASP3.Form1.resources
+C:\Users\Tomislav\Desktop\Grafovi - Copy\NASP3\obj\Debug\NASP3.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\Grafovi - Copy\NASP3\obj\Debug\NASP3.csproj.GenerateResource.Cache

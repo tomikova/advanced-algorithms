@@ -1,0 +1,11 @@
+C:\Users\Tomislav\Desktop\NASP2\NASP2\bin\Debug\NASP2.exe
+C:\Users\Tomislav\Desktop\NASP2\NASP2\bin\Debug\NASP2.pdb
+C:\Users\Tomislav\Desktop\NASP2\NASP2\obj\Debug\NASP2.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\NASP2\NASP2\obj\Debug\NASP2.Form1.resources
+C:\Users\Tomislav\Desktop\NASP2\NASP2\obj\Debug\NASP2.KomponenteForm.resources
+C:\Users\Tomislav\Desktop\NASP2\NASP2\obj\Debug\NASP2.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\NASP2\NASP2\obj\Debug\NASP2.csproj.GenerateResource.Cache
+C:\Users\Tomislav\Desktop\NASP2\NASP2\obj\Debug\NASP2.exe
+C:\Users\Tomislav\Desktop\NASP2\NASP2\obj\Debug\NASP2.pdb
+C:\Users\Tomislav\Desktop\Dinamičko programiranje\NASP2\obj\Debug\NASP2.exe
+C:\Users\Tomislav\Desktop\Dinamičko programiranje\NASP2\obj\Debug\NASP2.pdb
